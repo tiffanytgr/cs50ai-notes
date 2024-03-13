@@ -19,4 +19,4 @@ The AI will use this knowledge base to draw conclusions about the world.
 entailment: β╞ α, if beta is true, alpha is true
 
 They KEY QUESTION:
-
+Can we conclude that KB╞ α?
