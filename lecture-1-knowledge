@@ -11,3 +11,9 @@ P is False, Q is True, then P → Q is True.
 P is False, Q is False, P → Q is True 
 the only way an implication is false is if the Premise is false.
 if P is False, the implication makes no CLAIM at all. hence alwyas True
+
+Applying to AI:
+
+knowledge base: a set of sentences that the AI knows to be true.
+The AI will use this knowledge base to draw conclusions about the world.
+entailment: β╞ α, if beta is true, alpha is true
