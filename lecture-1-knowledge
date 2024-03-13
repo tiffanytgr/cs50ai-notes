@@ -7,5 +7,6 @@ if P or Q is True, PvQ is True
 
 IMPLICATION -- →
 eg if P is True, and Q is True, then P → Q is True
-P is False, Q is True, then P → Q is True. 
+P is False, Q is True, then P → Q is True.
+P is False, Q is False, P → Q is False 
 the only way an implication is false is if the Premise is false.
